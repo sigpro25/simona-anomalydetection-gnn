@@ -79,4 +79,4 @@ if __name__ == "__main__":
     evaluate_snip_lof(synthetic_json_file)
     print()
     print("GNN and LOF:")
-    evaluate_gnn_lof(synthetic_json_file, "src/model/gnn_frontal.pth", train=False)
+    evaluate_gnn_lof(synthetic_json_file, "gnn_frontal.pth", train=False)
