@@ -1,10 +1,8 @@
 # simona-anomalydetection-gnn
 
-## Anomaly Detection and Signal Processing with GNNs and ASLS
+## Non-stationary signal analysis: detrending and anomaly detection
 
-Smart Innovation of Stress Monitoring in the Progressive Geotechnical Applications Using Fiber Optic System. Source codes repository of framework on detrending sequential sensor data and anomaly detection.
-
-This project provides a framework for removing trend and detecting anomalies in time-series signals using Graph Neural Network (GNN). It includes functionality for generating synthetic signal datasets, training models, and evaluating performance using outlier detection methods like Local Outlier Factor (LOF).
+This project provides a framework for removing trend and detecting anomalies in time-series signals using Graph Neural Network (GNN). It includes functionality for generating synthetic signal datasets, training models, and evaluating performance using outlier detection methods such as Local Outlier Factor (LOF).
 
 ## Overview
 
