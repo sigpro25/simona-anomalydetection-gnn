@@ -1,17 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "anonym"
-  given-names: "anonym"
-  orcid: "https://orcid.org/anonym"
-- family-names: "anonym"
-  given-names: "anonym"
-  orcid: "https://orcid.org/anonym"
-- family-names: "anonym"
-  given-names: "anonym"
-  orcid: "https://orcid.org/anonym"
+- family-names: "Drahý"
+  given-names: "Vojtěch"
+  orcid: "https://orcid.org/0009-0002-5450-8814"
+- family-names: "Mařík"
+  given-names: "Radek"
+  orcid: "https://orcid.org/0000-0003-2000-6541"
+- family-names: "Kälviäinen"
+  given-names: "Heikki"
+  orcid: "https://orcid.org/0000-0002-0790-6847"
 title: "simona-anomalydetection-gnn"
 version: 1.0.0
-doi: 00.0000/aaaaaa.1234
+doi: TBA
 date-released: 2025-01-24
 url: "https://github.com/sigpro25/simona-anomalydetection-gnn"
